@@ -5,7 +5,7 @@
 :root{
     --cor-de-fundo: rgb(138, 33, 6);
     --cor-do-cabecalho: rgb(222, 83, 59);
-    --cor-do-menu:rgb(233, 193, 19);
+    --cor-do-menu:rgba(224, 97, 34, 0.872);
     --branco:white;
     
 }
